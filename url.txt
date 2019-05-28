@@ -1,0 +1,6 @@
+https://registration-pal-sridhark-akhila.apps.evans.pal.pivotal.io/users/3
+https://registration-pal-sridhark-akhila.apps.evans.pal.pivotal.io/accounts?ownerId=3
+https://registration-pal-sridhark-akhila.apps.evans.pal.pivotal.io/projects?accountId=3
+https://allocations-pal-sridhark-akhila.apps.evans.pal.pivotal.io/allocations?projectId=3
+https://backlog-pal-sridhark-akhila.apps.evans.pal.pivotal.io/stories?projectId=3
+https://timesheets-pal-sridhark-akhila.apps.evans.pal.pivotal.io/time-entries/userId=3
