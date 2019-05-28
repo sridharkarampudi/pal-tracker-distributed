@@ -1,0 +1,8 @@
+---
+applications:
+  - name: eureka-server
+    path: eureka-server/build/libs/eureka-server.jar
+    routes:
+      - route: eureka-server-sridhark-akhila.apps.evans.pal.pivotal.io
+    env:
+      JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
