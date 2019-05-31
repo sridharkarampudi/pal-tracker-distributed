@@ -24,7 +24,7 @@ dependencies {
 
     compile "org.springframework.security.oauth.boot:spring-security-oauth2-autoconfigure:$springSecurityOAuthAutoconfigVersion"
     compile "io.pivotal.spring.cloud:spring-cloud-sso-connector:$springCloudSsoVersion"
-    compile "io.pivotal.spring.cloud:spring-cloud-services-starter-config-client"
+    compile "io.pivotal.spring.cloud:spring-cloud-services-starter-config-client:2.0.3.RELEASE"
     testCompile project(":components:test-support")
     
 }
